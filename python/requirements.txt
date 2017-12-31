@@ -1,0 +1,37 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+jupyter
+seaborn
+tqdm
+xgboost
+kaggle-cli
+
+# additional packages
+japandas
+bokeh
+plotly
+tensorflow
+keras
+nltk
+
+# additional packages(for analysis/data aggregation/etc.)
+statsmodels
+pydot
+tabulate
+sphinx
+tweepy
+beautifulsoup4
+requests
+html5lib
+sympy
+pyper
+boto3
+click
+paramiko
+janome
+mecab-python3
+psycopg2
+SQLAlchemy
