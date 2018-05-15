@@ -1,7 +1,5 @@
-# kaggle-template
-
-## metrics
-### Root Mean Squared Logarithmic Error
+# metrics
+## Root Mean Squared Logarithmic Error
 - <https://www.kaggle.com/wiki/RootMeanSquaredLogarithmicError>
 - <https://gist.github.com/Tafkas/7642141>
 
