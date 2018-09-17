@@ -3,7 +3,7 @@
 ## kaggle全般
 - <https://github.com/nejumi/kaggle_memo>
 - <https://github.com/amaotone/kaggle-memo>
-- <>
+- <https://kaggler-ja-wiki.herokuapp.com/>
 
 ## missing value
 - [データ分析プロセス Useful R 第3章　前処理・変換 3.2　欠損値への対応](http://www.kyoritsu-pub.co.jp/bookdetail/9784320123656)
@@ -179,8 +179,8 @@ TODO
 - categorical target: Stratified K-Fold
 - time series: `sklearn.model_selection.TimeSeriesSplit`
   - `max_train_size=30`: train size is approximate 30.
-    - |train|test |_____|_____|
-    - |_____|train|test |_____|
-    - |_____|_____|train|test |
-    - | t1  | t2  | t3  | t4  |
+    - |train|test-|-----|-----|
+    - |-----|train|test-|-----|
+    - |-----|-----|train|test-|
+    - |-t1--|-t2--|-t3--|-t4--|
   - `max_train_size=None`: train is everything before test.
