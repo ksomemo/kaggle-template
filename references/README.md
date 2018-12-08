@@ -4,6 +4,9 @@
 - <https://github.com/nejumi/kaggle_memo>
 - <https://github.com/amaotone/kaggle-memo>
 - <https://kaggler-ja-wiki.herokuapp.com/>
+- <https://www.coursera.org/learn/competitive-data-science>
+
+## data leakage
 
 ## missing value
 - [データ分析プロセス Useful R 第3章　前処理・変換 3.2　欠損値への対応](http://www.kyoritsu-pub.co.jp/bookdetail/9784320123656)
